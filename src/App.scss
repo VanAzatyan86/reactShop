@@ -1,0 +1,33 @@
+.modal{
+    width: 700px;
+    height: 600px;
+    border: 1px solid;
+    margin: 50px auto;
+
+}
+.allProduct{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+.product{
+    width: 300px;
+    border: 1px solid;
+    img{
+        width: 50%;
+    }
+    button{
+        width: 150px;
+
+    }
+}   
+}
+.myState{
+    width: 600px;
+    height: 400px;
+    border: 1px solid;
+    margin: 50px auto;
+    img{
+        width: 150px;
+    }
+}
